@@ -1,7 +1,9 @@
 # ✨ React Collection: Showcasing My Learning Journey ✨
 
 This repository showcases a variety of React apps I've created while learning from courses
-**- Module Advanced React From Meta On Cousera **
+
+**. Module Advanced React From Meta On Coursera.**
+
 **- And The Complete Front End Web Development By Angela Yu On Udemy.**
 
 ##  Projects
